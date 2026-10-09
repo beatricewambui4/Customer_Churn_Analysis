@@ -1,0 +1,20 @@
+Customerid,Gender,Seniorcitizen,Partner,Dependents,Tenure,Phoneservice,Multiplelines,Internetservice,Onlinesecurity,Onlinebackup,Deviceprotection,Techsupport,Streamingtv,Streamingmovies,Contract,Paperlessbilling,Paymentmethod,Monthlycharges,Totalcharges,Churn,MonthlyChargesGroup,TotalChargesGroup,TenureGroup
+7590-Vhveg,Female,0,Yes,No,1,No,No Phone Service,Dsl,No,Yes,No,No,No,No,Month-To-Month,Yes,Electronic check,29.85,29.85,No,Low,Low,New
+5575-Gnvde,Male,0,No,No,34,Yes,No,Dsl,Yes,No,Yes,No,No,No,One Year,No,Mailed check,56.95,1889.5,No,Medium,High,Established
+3668-Qpybk,Male,0,No,No,2,Yes,No,Dsl,Yes,Yes,No,No,No,No,Month-To-Month,Yes,Mailed check,53.85,108.15,Yes,Medium,Low,New
+7795-Cfocw,Male,0,No,No,45,No,No Phone Service,Dsl,Yes,No,Yes,Yes,No,No,One Year,No,Bank transfer (automatic),42.3,1840.75,No,Medium,High,Established
+9237-Hqitu,Female,0,No,No,2,Yes,No,Fiber Optic,No,No,No,No,No,No,Month-To-Month,Yes,Electronic check,70.7,151.65,Yes,High,Low,New
+9305-Cdskc,Female,0,No,No,8,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Month-To-Month,Yes,Electronic check,99.65,820.5,Yes,Very High,Medium,New
+1452-Kiovk,Male,0,No,Yes,22,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,No,Month-To-Month,Yes,Credit card (automatic),89.1,1949.4,No,High,High,Early
+6713-Okomc,Female,0,No,No,10,No,No Phone Service,Dsl,Yes,No,No,No,No,No,Month-To-Month,No,Mailed check,29.75,301.9,No,Low,Low,New
+7892-Pookp,Female,0,Yes,No,28,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,Month-To-Month,Yes,Electronic check,104.8,3046.05,Yes,Very High,High,Established
+6388-Tabgu,Male,0,No,Yes,62,Yes,No,Dsl,Yes,Yes,No,No,No,No,One Year,No,Bank transfer (automatic),56.15,3487.95,No,Medium,High,Long-term
+9763-Grskd,Male,0,Yes,Yes,13,Yes,No,Dsl,Yes,No,No,No,No,No,Month-To-Month,Yes,Mailed check,49.95,587.45,No,Medium,Medium,Early
+7469-Lkbci,Male,0,No,No,16,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No Internet Service,No Internet Service,Two Year,No,Credit card (automatic),18.95,326.8,No,Low,Low,Early
+8091-Ttvax,Male,0,Yes,No,58,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,One Year,No,Credit card (automatic),100.35,5681.1,No,Very High,Very High,Long-term
+0280-Xjgex,Male,0,No,No,49,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Month-To-Month,Yes,Bank transfer (automatic),103.7,5036.3,Yes,Very High,Very High,Long-term
+5129-Jlpis,Male,0,No,No,25,Yes,No,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,Month-To-Month,Yes,Electronic check,105.5,2686.05,No,Very High,High,Established
+3655-Snqyz,Female,0,Yes,Yes,69,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit card (automatic),113.25,7895.15,No,Very High,Very High,Long-term
+8191-Xwszg,Female,0,No,No,52,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No Internet Service,No Internet Service,One Year,No,Mailed check,20.65,1022.95,No,Low,Medium,Long-term
+9959-Wofkt,Male,0,No,Yes,71,Yes,Yes,Fiber Optic,Yes,No,Yes,No,Yes,Yes,Two Year,No,Bank transfer (automatic),106.7,7382.25,No,Very High,Very High,Long-term
+4190-Mfluw,Female,0,Yes,Yes,10,Yes,No,Dsl,No,No,Yes,Yes,No,No,Month-To-Month,No,Credit card (automatic),55.2,528.35,Yes,Medium,Medium,New
